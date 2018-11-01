@@ -1,4 +1,4 @@
-# Some toole made with python
+# Some tools made with python
 
 > Don't forget to : source ./venv/bin/activate
 
