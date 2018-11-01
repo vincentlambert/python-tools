@@ -18,3 +18,7 @@ Command line parameters can be obtained with:
 
 Message cleaning can be done with:
 > python src/google/gmail.py --clean_doubled_labeled --burst_mode --dry_run
+
+## App Flask / Check IP
+
+[cf. README.md](src/myip/README.md)
